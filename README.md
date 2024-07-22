@@ -1,2 +1,2 @@
 # first-repo
-this is 1st repo
+this is 1st repo.
